@@ -3,7 +3,7 @@ import discord
 from verbatim.otherThings import get_file, save_file
 
 settings = get_file("settings.json")
-TOKEN = settings["discord token"]
+TOKEN = settings["NzI5Nzc0OTM1NzkwMzIxNzM0.XwOkNQ.CPy6LTB6ELFzgwWcqT2lpsIPGVk"]
 embed_color = 16604755
 
 
